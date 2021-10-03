@@ -1,1 +1,2 @@
-# PYTHON<img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/python.svg" height="30" width="30" />
+# PYTHON<img align="left" src="https://surfingthecode.com/img/python.gif" height="50" width="50"/>
+# lib examples
