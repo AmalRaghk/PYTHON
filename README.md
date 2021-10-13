@@ -2,4 +2,4 @@
 # python codes
 # will used for making tools or in bots 
 # contributers
-<img src="https://contributors-img.web.app/image?repo=AmalRaghk/HACKTOBER">
+<img src="https://contributors-img.web.app/image?repo=AmalRaghk/PYTHON">
